@@ -1,7 +1,6 @@
 # leave-manager
 <img width="200" height="200" alt="Logo for LeaveManager Software Product" src="https://github.com/user-attachments/assets/54e39219-97e8-4b7f-a766-150b0b402819" />
 
-The Employee Leave Management System is a web-based application designed to streamline employee leave management processes. 
 Employee Leave Management System Overview
 
 The Employee Leave Management System is a web-based application designed to streamline employee leave management processes. The system allows employees to request leaves, managers to approve or reject leaves, and administrators to manage employee data and leave policies.
