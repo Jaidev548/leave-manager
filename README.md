@@ -1,3 +1,4 @@
+![image alt](https://github.com/Jaidev548/leave-manager/blob/1af38613203a0cb8216ecd0f5a93fec147bcaf80/Untitled%20design.png)
 # leave-manager
 The Employee Leave Management System is a web-based application designed to streamline employee leave management processes. 
 Employee Leave Management System Overview
